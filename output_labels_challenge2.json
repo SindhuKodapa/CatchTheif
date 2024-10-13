@@ -1,0 +1,332 @@
+[
+    {
+        "filename": "frame_201674.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": []
+    },
+    {
+        "filename": "frame_201675.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": []
+    },
+    {
+        "filename": "frame_201681.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": []
+    },
+    {
+        "filename": "frame_201685.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": []
+    },
+    {
+        "filename": "frame_201692.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "van",
+                "top": 1039,
+                "left": 883,
+                "height": 755,
+                "width": 766
+            }
+        ]
+    },
+    {
+        "filename": "frame_201694.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "van",
+                "top": 1034,
+                "left": 876,
+                "height": 768,
+                "width": 768
+            }
+        ]
+    },
+    {
+        "filename": "frame_201695.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "van",
+                "top": 1032,
+                "left": 869,
+                "height": 776,
+                "width": 772
+            }
+        ]
+    },
+    {
+        "filename": "frame_201697.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "van",
+                "top": 1032,
+                "left": 848,
+                "height": 782,
+                "width": 792
+            }
+        ]
+    },
+    {
+        "filename": "frame_201701.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "van",
+                "top": 1024,
+                "left": 829,
+                "height": 800,
+                "width": 806
+            }
+        ]
+    },
+    {
+        "filename": "frame_201703.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "van",
+                "top": 1024,
+                "left": 814,
+                "height": 807,
+                "width": 819
+            }
+        ]
+    },
+    {
+        "filename": "frame_201706.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "van",
+                "top": 1025,
+                "left": 790,
+                "height": 817,
+                "width": 842
+            }
+        ]
+    },
+    {
+        "filename": "frame_201709.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "van",
+                "top": 1015,
+                "left": 769,
+                "height": 842,
+                "width": 861
+            }
+        ]
+    },
+    {
+        "filename": "frame_201710.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "van",
+                "top": 1010,
+                "left": 751,
+                "height": 855,
+                "width": 876
+            }
+        ]
+    },
+    {
+        "filename": "frame_201721.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "van",
+                "top": 996,
+                "left": 665,
+                "height": 912,
+                "width": 950
+            }
+        ]
+    },
+    {
+        "filename": "frame_201725.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "van",
+                "top": 996,
+                "left": 632,
+                "height": 918,
+                "width": 976
+            }
+        ]
+    },
+    {
+        "filename": "frame_201727.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "van",
+                "top": 989,
+                "left": 612,
+                "height": 928,
+                "width": 997
+            }
+        ]
+    },
+    {
+        "filename": "frame_201731.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "van",
+                "top": 990,
+                "left": 578,
+                "height": 924,
+                "width": 1021
+            }
+        ]
+    },
+    {
+        "filename": "frame_201732.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "van",
+                "top": 992,
+                "left": 566,
+                "height": 922,
+                "width": 1032
+            }
+        ]
+    },
+    {
+        "filename": "frame_201733.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "van",
+                "top": 989,
+                "left": 550,
+                "height": 926,
+                "width": 1049
+            }
+        ]
+    },
+    {
+        "filename": "frame_201738.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "van",
+                "top": 984,
+                "left": 509,
+                "height": 929,
+                "width": 1076
+            }
+        ]
+    },
+    {
+        "filename": "neg_110769.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": []
+    },
+    {
+        "filename": "neg_178309.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": []
+    },
+    {
+        "filename": "neg_209266.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": []
+    },
+    {
+        "filename": "neg_226022.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": []
+    },
+    {
+        "filename": "neg_271198.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": []
+    },
+    {
+        "filename": "neg_313731.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "car2",
+                "top": 1410,
+                "left": 2597,
+                "height": 498,
+                "width": 975
+            }
+        ]
+    },
+    {
+        "filename": "neg_414821.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": []
+    },
+    {
+        "filename": "neg_57015.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": []
+    },
+    {
+        "filename": "neg_69748.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": []
+    },
+    {
+        "filename": "neg_7771.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": []
+    },
+    {
+        "filename": "neg_84494.png",
+        "height": 1920,
+        "width": 3840,
+        "annotations": [
+            {
+                "classname": "car2",
+                "top": 1301,
+                "left": 579,
+                "height": 456,
+                "width": 803
+            }
+        ]
+    }
+]
